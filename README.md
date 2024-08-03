@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnshuRao
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Node.js
+- 👀 I’m interested in Full-Stack Web Developer
 - 💞️ I’m looking to collaborate on Company/FreeLancing
 - 📫 How to reach me ? E-mail - rao.anshu38@gmail.com    Phone Number - +918770074085
 
